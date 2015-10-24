@@ -1,0 +1,14 @@
+# Site settings
+title: Sillicon Gears
+email: diegoliber@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+   The purpose of this blog is to share my ideas about technology, 
+   software development, distributed systems, agile practices, devops
+   and whatever comes to my mind.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: diegoliber
+github_username:  diegoliber
+
+# Build settings
+markdown: kramdown
