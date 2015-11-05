@@ -2,7 +2,7 @@
 layout: post
 title:  "First Post!"
 date:   2015-10-23 15:45:31
-categories: jekyll update
+categories: update
 ---
 
 It's been a time since the first time I wanted to write down my thoughts on technology and related subjects, but I always found an "excuse" to postpone for tomorrow >.<. Some of these excuses were forgivable, after all, conciliating personal life, a job and obligations of a grad student at the same time is not for the faint of heart. After some sleepless nights I finally have some time to dedicate to a new project!
