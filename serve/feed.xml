@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sillicon Gears</title>
+    <description>The purpose of this blog is to share my ideas about technology, software development, distributed systems, agile practices, devops and whatever comes to my mind.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>2016-05-22 10:10:32 -0300</pubDate>
+    <lastBuildDate>2016-05-22 10:10:32 -0300</lastBuildDate>
+    <generator>Jekyll v</generator>
+    
+      <item>
+        <title>Understanding Microservices, Part II: A simple application.</title>
+        <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+        <pubDate>2015-11-05 19:00:00 -0300</pubDate>
+        <link>http://localhost:4000/microservicesseries/2015/11/05/understanding-microservices-part2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/microservicesseries/2015/11/05/understanding-microservices-part2.html</guid>
+        
+        <category>microservices,</category>
+        
+        <category>architecture,</category>
+        
+        <category>ddd</category>
+        
+        
+        <category>microservicesseries</category>
+        
+      </item>
+    
+      <item>
+        <title>Understanding Microservices Part 1</title>
+        <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+        <pubDate>2015-11-05 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2015/11/05/understanding-microservices-part-1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/11/05/understanding-microservices-part-1.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>First Post!</title>
+        <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+        <pubDate>2015-10-23 12:45:31 -0300</pubDate>
+        <link>http://localhost:4000/update/2015/10/23/first-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/update/2015/10/23/first-post.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>

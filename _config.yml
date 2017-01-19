@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
    software development, distributed systems, agile practices, devops
    and whatever comes to my mind.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://diegoliber.github.io" # the base hostname & protocol for your site
+url: "http://localhost:4000" # the base hostname & protocol for your site
 twitter_username: diegoliber
 github_username:  diegoliber
 
